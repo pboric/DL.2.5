@@ -162,5 +162,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - PyTorch team for the deep learning framework
 
 ## Contact
-Your Name - kresimirpet@gmail.com
-Project Link: [https://github.com/yourusername/toxic-comment-classification](https://github.com/pboric/DL.2.5)
+kresimirpet@gmail.com
+
+https://github.com/pboric/DL.2.5
