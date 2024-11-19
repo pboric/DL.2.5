@@ -157,7 +157,7 @@ Class-wise F1 Scores:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- Dataset from Kaggle's Toxic Comment Classification Challenge
+- Dataset from [Kaggle's Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 - Hugging Face for transformer implementations
 - PyTorch team for the deep learning framework
 
